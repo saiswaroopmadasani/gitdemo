@@ -1,0 +1,1 @@
+echo "welcome and this is for local repo to github repo"
